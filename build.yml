@@ -1,0 +1,4 @@
+- build: examples/2-hardware-test-MAX7360-RK
+  photon: [latest]
+  boron: [latest]
+
